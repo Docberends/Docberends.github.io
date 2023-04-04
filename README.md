@@ -1,2 +1,0 @@
-# Zoomies
-First Genetics Game
